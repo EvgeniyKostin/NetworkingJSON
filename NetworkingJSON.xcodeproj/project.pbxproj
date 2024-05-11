@@ -11,6 +11,7 @@
 		FEDC80A32BEFBFD000A42E76 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEDC80A22BEFBFD000A42E76 /* ContentView.swift */; };
 		FEDC80A52BEFBFD300A42E76 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FEDC80A42BEFBFD300A42E76 /* Assets.xcassets */; };
 		FEDC80A82BEFBFD300A42E76 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FEDC80A72BEFBFD300A42E76 /* Preview Assets.xcassets */; };
+		FEDC80AF2BEFC4E400A42E76 /* GitHubUserModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEDC80AE2BEFC4E400A42E76 /* GitHubUserModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		FEDC80A22BEFBFD000A42E76 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FEDC80A42BEFBFD300A42E76 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FEDC80A72BEFBFD300A42E76 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FEDC80AE2BEFC4E400A42E76 /* GitHubUserModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitHubUserModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				FEDC80A02BEFBFD000A42E76 /* NetworkingJSONApp.swift */,
 				FEDC80A22BEFBFD000A42E76 /* ContentView.swift */,
+				FEDC80AE2BEFC4E400A42E76 /* GitHubUserModel.swift */,
 				FEDC80A42BEFBFD300A42E76 /* Assets.xcassets */,
 				FEDC80A62BEFBFD300A42E76 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FEDC80AF2BEFC4E400A42E76 /* GitHubUserModel.swift in Sources */,
 				FEDC80A32BEFBFD000A42E76 /* ContentView.swift in Sources */,
 				FEDC80A12BEFBFD000A42E76 /* NetworkingJSONApp.swift in Sources */,
 			);
